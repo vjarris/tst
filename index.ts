@@ -1,3 +1,13 @@
-// Write TypeScript code!
-const appDiv: HTMLElement = document.getElementById('app');
-appDiv.innerHTML = `<h1>Test</h1>`;
+/**
+ * Problem:
+ * Given a list of strings, return them in their prioritized order.
+ * 
+ * E.x, 
+ * Input:
+ * ["MEDIUM", "LOW", "HIGH", "NONE", "HIGH"]
+ *
+ * Output:
+ * ["HIGH", "HIGH", "MEDIUM", "LOW", "NONE"]
+ * 
+ */
+
