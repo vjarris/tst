@@ -11,3 +11,10 @@
  * 
  */
 
+function sort(values: string[]):  string[]{
+    //Implement
+    return [];
+}
+
+
+console.log(sort(["HIGH"]));
